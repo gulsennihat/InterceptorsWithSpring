@@ -1,5 +1,3 @@
-# InterceptorsWithSpring
-
 Interceptors With Spring
 ===================
 
